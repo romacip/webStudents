@@ -1,0 +1,32 @@
+[
+  {
+    "idStudent": 1,
+    "firstName": "Ceci", 
+    "lastName": "Romero",
+    "address": "Street 1",
+    "number": 123456,
+    "gpa": 2.0,
+    "city": "Puebla",
+    "image": "https://pixabay.com/vectors/woman-women-business-woman-female-1353825/"
+  },
+  {
+    "idStudent": 2,
+    "firstName": "Leonela", 
+    "lastName": "Macip",
+    "address": "Street 2",
+    "number": 123456,
+    "gpa": 2.0,
+    "city": "Mexico",
+    "image": "https://pixabay.com/vectors/woman-women-business-woman-female-1353825/"
+  },
+  {
+    "idStudent": 3,
+    "firstName": "Leon", 
+    "lastName": "Martinez",
+    "address": "Street 3",
+    "number": 1234567,
+    "gpa": 3.5,
+    "city": "California",
+    "image": "https://pixabay.com/vectors/woman-women-business-woman-female-1353825/"
+  }
+]
